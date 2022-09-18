@@ -1,16 +1,23 @@
-# clean_dart_github_demo
+# CleanDartGithubDemo
 
-clean_dart_github_demo
+簡介
+==================================
+如果對於 Triple CleanArchitecture 有興趣的話, 可以參考看看                                 
 
-## Getting Started
+取材自以下資源
+--------
+clean-dart-github                                                                 
+https://github.com/whosramoss/clean-dart-github                       			
+	
+一刻鯨選｜聆聽新知識 輕鬆學習又療癒 音頻內容最多元的平台                                                                 
+https://play.google.com/store/apps/details?id=net.jinfm.app     
+                  		 
+預覽
+--------
+<p align="left">
+  <img src="https://i.imgur.com/oDOr02K.png" height="330"/>
+</p> 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+備註
+--------
+圖片資源僅供學習交流之用, 請勿用於商業用途, 如有侵權請聯繫刪除, 謝謝
